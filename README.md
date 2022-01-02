@@ -1,9 +1,21 @@
-### Good Evening
+# Hello Internet Traveler
 
 You can find a lot of my personal projects here: [https://gitea.tassilo-tanneberger.de/revol-xut](https://gitea.tassilo-tanneberger.de/revol-xut)
 
-- Currently studying and working at the Technical University Dresden
-- Working at various nix projects
-- C++ geek which is really into development of the language
+## Current Occupations and Projects 
 
-PGP: `91EB E870 1639 1323 642A  6803 B966 009D 57E6 9CC6`
+- Currently studying and working at the Technical University Dresden
+- Working at various nix projects like Nixos-Mobile for the Pinephone
+- C++ concurrency for schedulers 
+
+## Contact if something starts burning
+
+- **XMPP** <revol-xut@jabber.c3d2.de>
+- **Mastodon** <EinSpaten@chaos.social>
+- **E-Mail**
+    - Acedemic: <tassilo.tanneberger@tu-dresden.de>
+    - Student Council: <tassilo.tanneberger@ifsr.de>
+
+
+## Crypto-Stuff
+PGP Master Key: `91EB E870 1639 1323 642A 6803 B966 009D 57E6 9CC6`
