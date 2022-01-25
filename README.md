@@ -8,10 +8,10 @@ You can find a lot of my personal projects here: [https://gitea.tassilo-tanneber
 - Working at various nix projects like Nixos-Mobile for the Pinephone
 - C++ concurrency for schedulers 
 
-## Contact if something starts burning
+## Contacts
 
-- **XMPP** <revol-xut@jabber.c3d2.de>
-- **Mastodon** <EinSpaten@chaos.social>
+- **XMPP** [revol-xut@jabber.c3d2.de]()
+- **Mastodon** [EinSpaten@chaos.social](https://chaos.social/@EinSpaten)
 - **E-Mail**
     - Acedemic: <tassilo.tanneberger@tu-dresden.de>
     - Student Council: <tassilo.tanneberger@ifsr.de>
