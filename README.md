@@ -1,4 +1,4 @@
-# Hello Internet Traveler
+# Hello 
 
 You can find a lot of my personal projects here: [https://gitea.tassilo-tanneberger.de/revol-xut](https://gitea.tassilo-tanneberger.de/revol-xut)
 
