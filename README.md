@@ -13,8 +13,8 @@ You can find a lot of my personal projects here: [https://gitea.tassilo-tanneber
 - **XMPP** [revol-xut@jabber.c3d2.de]()
 - **Mastodon** [EinSpaten@chaos.social](https://chaos.social/@EinSpaten)
 - **E-Mail**
-    - Acedemic: <tassilo.tanneberger@tu-dresden.de>
-    - Student Council: <tassilo.tanneberger@ifsr.de>
+    - academic: <tassilo.tanneberger@tu-dresden.de>
+    - student council: <tassilo.tanneberger@ifsr.de>
 
 
 ## Crypto-Stuff
