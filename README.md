@@ -1,21 +1,16 @@
-# Hello 
+**Hi**
 
-You can find a lot of my personal projects here: [https://gitea.tassilo-tanneberger.de/revol-xut](https://gitea.tassilo-tanneberger.de/revol-xut)
-
-## Current Occupations and Projects 
+## What the fuck I am currently doing
 
 - Currently studying and working at the Technical University Dresden
-- Working at various nix projects like Nixos-Mobile for the Pinephone
-- C++ concurrency for schedulers 
+- Working on realtime programming languages focused on time determinism.
+- Spying on trams and busses.
 
 ## Contacts
 
 - **XMPP** [revol-xut@jabber.c3d2.de]()
 - **Mastodon** [EinSpaten@chaos.social](https://chaos.social/@EinSpaten)
-- **E-Mail**
-    - academic: <tassilo.tanneberger@tu-dresden.de>
-    - student council: <tassilo.tanneberger@ifsr.de>
-
+- **E-Mail** <revol-xut@protonmail.com>
 
 ## PGP
-GPG Master Key: `91EB E870 1639 1323 642A 6803 B966 009D 57E6 9CC6`
+GPG Fingerprint: `91EB E870 1639 1323 642A 6803 B966 009D 57E6 9CC6`
