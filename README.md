@@ -1,15 +1,16 @@
-**Hi**
+# HI, I am Tassilo Tanneberger
 
-## What the fuck I am currently doing
+## Projects & Occupation
 
-- Currently studying and working at the Technical University Dresden
-- Working on realtime programming languages focused on time determinism.
-- Spying on trams and busses.
+- Currently studying and working at the TU Dresden
+- Working on [Lingua Franca](lf-lang.org) which is a polyglot coordination language for reactive, concurrent, and time-sensitive applications.
+- Spying on trams and busses and all other kinds of infrastructure at [@tlm-solutions](tlm.solutions)
+- Doing a lot of infra with nixos.
 
 ## Contacts
 
 - **XMPP** [revol-xut@jabber.c3d2.de]()
-- **Mastodon** [EinSpaten@chaos.social](https://chaos.social/@EinSpaten)
+- **Mastodon** [revol-xut@c3d2.social](https://c3d2.social/@revol_xut)
 - **E-Mail** <revol-xut@protonmail.com>
 
 ## PGP
