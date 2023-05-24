@@ -3,8 +3,8 @@
 ## Projects & Occupation
 
 - Currently studying and working at the TU Dresden
-- Working on [Lingua Franca](lf-lang.org) which is a polyglot coordination language for reactive, concurrent, and time-sensitive applications.
-- Spying on trams and busses and all other kinds of infrastructure at [@tlm-solutions](tlm.solutions)
+- Working on [Lingua Franca](https://lf-lang.org) which is a polyglot coordination language for reactive, concurrent, and time-sensitive applications.
+- Spying on trams and busses and all other kinds of infrastructure at [@tlm-solutions](https://tlm.solutions)
 - Doing a lot of infra with nixos.
 
 ## Contacts
