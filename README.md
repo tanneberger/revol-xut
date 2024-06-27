@@ -12,7 +12,7 @@
 
 - **XMPP** [revol-xut@jabber.c3d2.de]()
 - **Mastodon** [revol-xut@c3d2.social](https://c3d2.social/@revol_xut)
-- **E-Mail** <revol-xut@protonmail.com>
+- **E-Mail** <git@tanneberger.me>
 
 ## PGP
 GPG Fingerprint: `91EB E870 1639 1323 642A 6803 B966 009D 57E6 9CC6`
